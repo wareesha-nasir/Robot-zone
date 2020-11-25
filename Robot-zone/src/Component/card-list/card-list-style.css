@@ -1,5 +1,5 @@
 .card-list{
-    width:80vw;
+    width:70vw;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0 auto;
     display: grid;
